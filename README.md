@@ -2,13 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:1E1052,100:4C1D95&height=260&section=header&text=RADHESH&fontSize=80&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Architecting%20Intelligent%20Systems%20%E2%80%94%20ML%20%C2%B7%20AI%20Agents%20%C2%B7%20Full%20Stack&descAlignY=58&descSize=17&descAlign=50" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=750&lines=Final-Year+CS+Engineer+%40+VIT+Amaravathi;Building+Production-Grade+AI+Systems;Deep+Learning+%7C+Voice+AI+%7C+Computer+Vision;From+Architecture+to+Deployment" alt="Typing SVG" />
-</a>
+
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🎓_VIT_AMARAVATHI-CLASS_OF_2025-1E1052?style=for-the-badge&labelColor=0F0524" />
 <img src="https://img.shields.io/badge/📍_HYDERABAD-INDIA-2E1065?style=for-the-badge&labelColor=0F0524" />
 <img src="https://img.shields.io/badge/⚡_STATUS-OPEN_TO_WORK-6D28D9?style=for-the-badge&labelColor=0F0524" />
 
