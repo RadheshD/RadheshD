@@ -29,25 +29,7 @@
 
 ## 🧬 About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/RadheshD/RadheshD/output/github-contribution-grid-snake-dark.svg" />
 
-```py
-class Radhesh:
-    def __init__(self):
-        self.role        = "Final-Year CS Engineering Student"
-        self.university  = "VIT Amaravathi"
-        self.focus       = ["Machine Learning", "Deep Learning", "Full-Stack Engineering"]
-        self.philosophy  = "Ship real, deployable systems — not portfolio demos"
-
-    def currently_building(self):
-        return [
-            "AutoExtract  — 6-layer document intelligence pipeline (FastAPI + Next.js)",
-            "FaceAttend AI — on-premise real-time facial recognition kiosk",
-        ]
-
-    def open_to(self):
-        return ["ML Engineer roles", "SDE roles", "Applied AI collaborations"]
-```
 
 I design systems the way an architect reads a blueprint — data flow first, failure modes second, elegance last. My work spans **document intelligence pipelines**, **computer vision & biometrics**, **multilingual conversational AI**, and **full-stack product engineering**, always with a bias toward things that actually run in production.
 
