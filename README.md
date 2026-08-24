@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Radhesh Dahagam 👋</h1>
-<h3 align="center">AI/ML Engineer — I build production ML systems, not just notebooks</h3>
+<h3 align="center">AI/ML Engineer - I build production ML systems, not just notebooks</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/radhesh-dahagam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -106,9 +106,9 @@
 
 ### 🎓 Education
 
-- **B.Tech, Computer Science and Engineering** — Vellore Institute of Technology (VIT), Amaravathi *(2021–2025)*
-- **Intermediate (MPC)** — Sri Chaitanya Junior College, Narsingi *(2019–2021)*
-- **SSC** — Alphores High School, Karimnagar *(2018–2019)*
+- **B.Tech, Computer Science and Engineering** - Vellore Institute of Technology (VIT), Amaravathi *(2021–2025)*
+- **Intermediate (MPC)** - Sri Chaitanya Junior College, Narsingi *(2019–2021)*
+- **SSC** - Alphores High School, Karimnagar *(2018–2019)*
 
 ---
 
