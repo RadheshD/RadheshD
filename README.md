@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm Radhesh Dahagam 👋</h1>
-<h3 align="center">AI/ML Engineer | Building end-to-end ML & Computer Vision systems</h3>
+<h3 align="center">AI/ML Engineer — I build production ML systems, not just notebooks</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/radhesh-dahagam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:dahagamradhesh9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Location-Dharmapuri,%20Telangana-informational?style=for-the-badge">
 </p>
 
 ---
@@ -12,11 +11,11 @@
 ### 🚀 About Me
 
 - 🔭 Currently working as an **AI/ML Engineer**
-- 🎓 B.Tech in Computer Science (VIT, 2025)
+- 🎓 B.Tech in Computer Science, VIT (2025)
 - 🧠 Built two production AI systems **solo, end-to-end**: an invoice automation platform and a real-time face recognition attendance system
-- 📊 Academic work spans computer vision (91% accuracy) and predictive analytics on 10,000+ record datasets
+- 📊 Additional work in computer vision (91% accuracy) and predictive analytics on 10,000+ record datasets
 - 📜 Certified: **Microsoft Azure AI Fundamentals (AI-900)**, **Google Cybersecurity Professional Certificate**
-- 🌱 Always exploring deeper ML systems design, MLOps, and scalable backend architecture
+- 🌱 Currently exploring deeper ML systems design, MLOps, and scalable backend architecture
 
 ---
 
@@ -56,21 +55,26 @@
 
 ---
 
-### 🧩 Featured Projects
+### 🧩 Production Systems
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🧾 AutoExtract — AI Invoice Processing Platform</h4>
+      <h4>🧾 AutoExtract - AI Invoice Processing Platform</h4>
       <p>Full-stack platform automating invoice processing: OCR extraction, field validation, and a human-in-the-loop review queue. Async pipeline built with FastAPI + Redis/Celery, with confidence scoring, duplicate detection, RBAC, and audit logging — shipped to production.</p>
       <sub><b>Tech:</b> Python · FastAPI · Redis · Celery · SQLite · OCR · Next.js</sub>
     </td>
     <td width="50%">
-      <h4>🎥 FaceAttend AI — Face Recognition Attendance</h4>
+      <h4>🎥 FaceAttend AI - Face Recognition Attendance</h4>
       <p>Real-time face recognition system for automated attendance, from live capture through identification to reporting. Improved recognition reliability via preprocessing and inference optimization across varying lighting conditions.</p>
       <sub><b>Tech:</b> Python · OpenCV · Deep Learning · FastAPI · SQLite</sub>
     </td>
   </tr>
+</table>
+
+### 📚 Academic & Research Projects
+
+<table>
   <tr>
     <td width="50%">
       <h4>🦴 Bone Fracture Detection & Classification</h4>
@@ -102,9 +106,9 @@
 
 ### 🎓 Education
 
-- **B.Tech, Computer Science and Engineering** — Vellore Institute of Technology (VIT), Amaravathi *(2021–2025)*, CGPA 7.29/10.0
-- **Intermediate (MPC)** — Sri Chaitanya Junior College, Narsingi *(2019–2021)*, 85.2%
-- **SSC** — Alphores High School, Karimnagar *(2018–2019)*, CGPA 9.2/10.0
+- **B.Tech, Computer Science and Engineering** — Vellore Institute of Technology (VIT), Amaravathi *(2021–2025)*
+- **Intermediate (MPC)** — Sri Chaitanya Junior College, Narsingi *(2019–2021)*
+- **SSC** — Alphores High School, Karimnagar *(2018–2019)*
 
 ---
 
