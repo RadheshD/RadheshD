@@ -107,8 +107,6 @@
 ### 🎓 Education
 
 - **B.Tech, Computer Science and Engineering** - Vellore Institute of Technology (VIT), Amaravathi *(2021–2025)*
-- **Intermediate (MPC)** - Sri Chaitanya Junior College, Narsingi *(2019–2021)*
-- **SSC** - Alphores High School, Karimnagar *(2018–2019)*
 
 ---
 
