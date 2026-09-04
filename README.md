@@ -12,7 +12,7 @@
 
 - 🔭 Currently working as an **AI/ML Engineer**
 - 🎓 B.Tech in Computer Science, VIT (2025)
-- 🧠 Built two production AI systems **solo, end-to-end**: an invoice automation platform and a real-time face recognition attendance system
+- 🧠 Built two production AI systems end-to-end**: an invoice automation platform and a real-time face recognition attendance system
 - 📊 Additional work in computer vision (91% accuracy) and predictive analytics on 10,000+ record datasets
 - 📜 Certified: **Microsoft Azure AI Fundamentals (AI-900)**, **Google Cybersecurity Professional Certificate**
 - 🌱 Currently exploring deeper ML systems design, MLOps, and scalable backend architecture
