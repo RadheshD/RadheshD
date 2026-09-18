@@ -1,211 +1,68 @@
-<div align="center">
+# Hi there, I'm Radhesh Dahagam 👋
 
-<br>
+### AI/ML Engineer — training models, and occasionally my own curiosity
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=40&duration=3500&pause=1200&color=3D2B1F&center=true&vCenter=true&width=650&height=70&lines=Radhesh+Dahagam;(the+one+who+builds+the+robots)" alt="Radhesh Dahagam"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radhesh-dahagam) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahagamradhesh9@gmail.com)
 
-<sub>
+---
 
-`AI / ML ENGINEER`　·　`HYDERABAD`　·　`PROFESSIONALLY CAFFEINATED`
+### 🔬 Field Notes
 
-</sub>
+- 🔭 Currently building production AI systems as an **AI/ML Engineer**
+- 🎓 B.Tech, Computer Science and Engineering — Vellore Institute of Technology (VIT), Amaravathi *(2021–2025)*
+- 🧪 Two systems shipped end-to-end: a document intelligence platform and a real-time face recognition attendance system — both had to survive messy, real-world data, not just clean demo inputs
+- 📊 Side experiments in computer vision (91% accuracy) and predictive analytics across 10,000+ records
+- 📜 Certified: **Microsoft Azure AI Fundamentals (AI-900)**, **Google Cybersecurity Professional Certificate**
+- 🌱 Currently poking at ML systems design, MLOps, and what happens when a model meets production traffic
 
-<br><br>
+*What would you teach a machine?*
 
-I teach machines to notice things so I don't have to.<br/>
-It's going mostly well. Ask me again after my next deploy.
+---
 
-<br>
+### 🛠️ Tech Stack
 
-<a href="https://linkedin.com/in/radhesh-dahagam"><img src="https://img.shields.io/badge/SAY%20HI-3D2B1F?style=flat-square&logoColor=white" height="24"/></a>&nbsp;&nbsp;<a href="mailto:dahagamradhesh9@gmail.com"><img src="https://img.shields.io/badge/SEND%20MAIL-3D2B1F?style=flat-square&logoColor=white" height="24"/></a>
+**Languages**
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-──────────────────────
+**ML / DL Frameworks**
 
-<sub>psst — there's a secret at the very bottom of this page 🔎</sub>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-</div>
+**Backend & Infra**
 
-<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<table width="100%">
-<tr>
-<td width="8%" valign="top">
+---
 
-<h2>01</h2>
+### 🧩 Production Systems — Field Tested
 
-</td>
-<td width="92%" valign="top">
+| 🧾 **AutoExtract** — AI Invoice Processing Platform<br>Full-stack platform automating invoice processing: OCR extraction, field validation, and a human-in-the-loop review queue. Async pipeline built with FastAPI + Redis/Celery, with confidence scoring, duplicate detection, RBAC, and audit logging — shipped to production. **82% extraction accuracy across 25+ document types.**<br>**Tech:** Python · FastAPI · Redis · Celery · SQLite · OCR · Next.js | 🎥 **FaceAttend AI** — Face Recognition Attendance<br>Real-time, fully on-premise face recognition system for automated attendance, from live capture through identification to reporting. Anti-spoofing and lighting-resilient preprocessing to hold up across glare, low light, and shadows.<br>**Tech:** Python · OpenCV · Deep Learning · FastAPI · SQLite |
+|---|---|
 
-<h3>What I'm up to</h3>
-<sub>(a very official status report)</sub>
+### 📚 Academic & Research Projects — Early Experiments
 
-<br><br>
+| 🦴 **Bone Fracture Detection & Classification**<br>Computer vision system classifying bone fractures from X-ray images — 91% accuracy using a MobileNet–Random Forest hybrid model trained on 3,000+ labeled images. Includes a web app with REST endpoints for upload, inference, and visualization.<br>**Tech:** Python · TensorFlow · CNN · MobileNet · Scikit-learn · MySQL | 🚔 **Crime Pattern Prediction System**<br>Predictive analytics pipeline forecasting crime hotspots from 10,000+ historical records — 87% accuracy with tuned ensemble models. Full preprocessing pipeline plus Matplotlib/Seaborn dashboards for hotspot visualization.<br>**Tech:** Python · Scikit-learn · Pandas · NumPy · Random Forest · AdaBoost |
+|---|---|
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<sub><b>🚢 SHIPPING</b></sub><br/>
-Production ML systems that don't page me at 2am (mostly)
-</td>
-<td width="33%" valign="top">
-<sub><b>📚 STUDYING</b></sub><br/>
-MLOps, backend architecture, and the ancient art of Not Overengineering
-</td>
-<td width="33%" valign="top">
-<sub><b>🎓 CERTIFIED</b></sub><br/>
-Azure AI-900 · Google Cybersecurity · Surviving VIT ('21–'25)
-</td>
-</tr>
-</table>
+---
 
-</td>
-</tr>
-</table>
+### 📈 GitHub Stats
 
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadheshD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RadheshD&theme=tokyonight&hide_border=true)
 
-<div align="center">──────────────────────</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadheshD&layout=compact&theme=tokyonight&hide_border=true)
 
-<br>
+---
 
-<table width="100%">
-<tr>
-<td width="8%" valign="top">
+### 🎓 Education
 
-<h2>02</h2>
+- **B.Tech, Computer Science and Engineering** — Vellore Institute of Technology (VIT), Amaravathi *(2021–2025)*
 
-</td>
-<td width="92%" valign="top">
+---
 
-<h3>Things I've unleashed into the world</h3>
-<sub>each one started as "how hard can it be"</sub>
+### 📬 Reach Me
 
-<br><br>
+[Email](mailto:dahagamradhesh9@gmail.com) · [LinkedIn](https://linkedin.com/in/radhesh-dahagam) · [GitHub](https://github.com/RadheshD)
 
-<table width="100%">
-
-<tr>
-<td width="50%" valign="top">
-
-**🧾 AutoExtract**
-*the invoice whisperer*
-
-Reads messy invoices so I don't have to squint at them at midnight. OCR, validation, a human-review queue for when it gets nervous. Shipped. Behaving. Mostly humble about it.
-
-<sub>PYTHON　FASTAPI　REDIS　NEXT.JS</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🎥 FaceAttend AI**
-*the doorway that never forgets a face*
-
-Clocks people in the moment they walk through the door — even in lighting that would make a lesser camera cry.
-
-<sub>PYTHON　OPENCV　DEEP LEARNING</sub>
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-**🦴 Bone Fracture Detection**
-*91% accuracy, 0% bedside manner*
-
-Spots fractures in X-rays faster than my group chat spots a reason to postpone the gym.
-
-<sub>TENSORFLOW　CNN　SCIKIT-LEARN</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🚔 Crime Pattern Prediction**
-*a mild-mannered crystal ball*
-
-87% accuracy forecasting trouble hotspots. Still 0% accuracy forecasting my own sleep schedule.
-
-<sub>PANDAS　RANDOM FOREST　ADABOOST</sub>
-
-</td>
-</tr>
-
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">──────────────────────</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="8%" valign="top">
-
-<h2>03</h2>
-
-</td>
-<td width="92%" valign="top">
-
-<h3>The toolbox</h3>
-<sub>yes, one of these is just Python in a nicer outfit</sub>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow,pytorch,sklearn,opencv,redis,nextjs,mysql,azure,git&theme=light&perline=11" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">──────────────────────</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="8%" valign="top">
-
-<h2>04</h2>
-
-</td>
-<td width="92%" valign="top">
-
-<h3>The receipts</h3>
-<sub>github made me put numbers here</sub>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=RadheshD&show_icons=true&hide_border=true&bg_color=00000000&title_color=3D2B1F&icon_color=D97742&text_color=3D2B1F&hide_rank=true&hide_title=true" height="150"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">──────────────────────</div>
-
-<br>
-
-<div align="center">
-
-<sub>🔎 you made it to the secret. here's a fact: I have never once fixed a bug on the first try. not once. it's a streak now.</sub>
-
-<br><br>
-
-**Thanks for reading this far — let's build something ✦**
-
-<br><br>
-
-</div>
+*Epoch ∞. Curiosity loss: still decreasing.*
