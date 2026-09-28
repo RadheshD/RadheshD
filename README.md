@@ -1,4 +1,4 @@
-                                                       H Hi there, I'm Radhesh Dahagam 👋
+                                                        Hi there, I'm Radhesh Dahagam 👋
 
 ### AI/ML Engineer — training models, and occasionally my own curiosity
 
