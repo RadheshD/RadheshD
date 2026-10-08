@@ -8,12 +8,12 @@
 
 ###  Field 
 
-- 🔭 Currently building production AI systems as an **AI/ML Engineer**
-- 🎓 B.Tech, Computer Science and Engineering — Vellore Institute of Technology (VIT), Amaravathi *(2021–2025)*
-- 🧪 Two systems shipped end-to-end: a document intelligence platform and a real-time face recognition attendance system — both had to survive messy, real-world data, not just clean demo inputs
-- 📊 Side experiments in computer vision (91% accuracy) and predictive analytics across 10,000+ records
-- 📜 Certified: **Microsoft Azure AI Fundamentals (AI-900)**, **Google Cybersecurity Professional Certificate**
-- 🌱 Currently poking at ML systems design, MLOps, and what happens when a model meets production traffic
+-  Currently building production AI systems as an **AI/ML Engineer**
+-  B.Tech, Computer Science and Engineering — Vellore Institute of Technology (VIT), Amaravathi *(2021–2025)*
+-  Two systems shipped end-to-end: a document intelligence platform and a real-time face recognition attendance system — both had to survive messy, real-world data, not just clean demo inputs
+-  Side experiments in computer vision (91% accuracy) and predictive analytics across 10,000+ records
+-  Certified: **Microsoft Azure AI Fundamentals (AI-900)**, **Google Cybersecurity Professional Certificate**
+-  Currently poking at ML systems design, MLOps, and what happens when a model meets production traffic
 
 *What would you teach a machine?*
 
