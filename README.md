@@ -35,12 +35,12 @@
 
 ---
 
-###  Production Systems — Field Tested
+###  Production Systems
 
 |  **AutoExtract** — AI Invoice Processing Platform<br>Full-stack platform automating invoice processing: OCR extraction, field validation, and a human-in-the-loop review queue. Async pipeline built with FastAPI + Redis/Celery, with confidence scoring, duplicate detection, RBAC, and audit logging — shipped to production. **82% extraction accuracy across 25+ document types.**<br>**Tech:** Python · FastAPI · Redis · Celery · SQLite · OCR · Next.js | 🎥 **FaceAttend AI** — Face Recognition Attendance<br>Real-time, fully on-premise face recognition system for automated attendance, from live capture through identification to reporting. Anti-spoofing and lighting-resilient preprocessing to hold up across glare, low light, and shadows.<br>**Tech:** Python · OpenCV · Deep Learning · FastAPI · SQLite |
 |---|---|
 
-###  Academic & Research Projects — Early Experiments
+###  Academic & Research Projects
 
 |  **Bone Fracture Detection & Classification**<br>Computer vision system classifying bone fractures from X-ray images — 91% accuracy using a MobileNet–Random Forest hybrid model trained on 3,000+ labeled images. Includes a web app with REST endpoints for upload, inference, and visualization.<br>**Tech:** Python · TensorFlow · CNN · MobileNet · Scikit-learn · MySQL | 🚔 **Crime Pattern Prediction System**<br>Predictive analytics pipeline forecasting crime hotspots from 10,000+ historical records — 87% accuracy with tuned ensemble models. Full preprocessing pipeline plus Matplotlib/Seaborn dashboards for hotspot visualization.<br>**Tech:** Python · Scikit-learn · Pandas · NumPy · Random Forest · AdaBoost |
 |---|---|
