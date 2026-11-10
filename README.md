@@ -19,7 +19,7 @@
 
 ---
 
-## About
+## About me
 
 I take models all the way to something people actually use: the API, the review queue, the audit log. Two systems I built end to end are in production, a document-intelligence platform and an on-prem face-recognition attendance kiosk. Right now I'm going deeper on ML systems design, MLOps and scalable backends.
 
